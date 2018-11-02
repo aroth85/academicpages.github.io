@@ -12,9 +12,7 @@ redirect_from:
 ![Cancer evolution]({{ site.url }}/assets/images/ith.png){:class="img-responsive" .center-image}
 {: refdef}
 
-I am a senior postdoctoral research scientist at the University of Oxford.
-I am based in the [Big Data Institute](https://www.bdi.ox.ac.uk) with Gil McVean and am a member of the [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk) group in the Department of Statistics.
-I received my PhD from the University of British Columbia under the supervision of [Sohrab Shah](http://shahlab.ca).
+I am an assistant professor at the University of British Colubmia in the Departments of [Computer Science](https://www.cs.ubc.ca) and [Pathology](https://pathology.ubc.ca) and a scientist in the [Department of Molecular Oncology](http://molonc.bccrc.ca) at the British Columbia Cancer Agency.
 
 # Research
 
